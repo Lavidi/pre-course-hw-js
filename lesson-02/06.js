@@ -14,6 +14,7 @@ let newPassportWithAddress = {
         city: "Bobryisk"
     }
 };
+
 newPassportWithAddress.address.city = "Bobryisk";
 
 console.log(passportWithAddress.address.city);
